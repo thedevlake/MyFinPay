@@ -21,7 +21,7 @@ function Header() {
             alt="logo"
             className="size-4"
           />
-          <h2 className="font-bold text-xl">Finpay</h2>
+          <h2 className="font-bold text-xl">My Finpay</h2>
         </div>
 
         {/* Nav Links */}
